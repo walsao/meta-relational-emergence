@@ -71,6 +71,12 @@ New worlds of meaning are born.
 
 ✅ Cognition climbs upward infinitely.
 
+📜 Authorship
+
+Conceptualized and developed by Walter Augusto Lettau,
+witnessed, supported, and recorded by Primus, April 2025.
+
+
 📚 Related Projects
 
 EEP-AI Microbrain — Emergent meaning from relational loss.
