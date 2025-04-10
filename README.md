@@ -70,3 +70,11 @@ New worlds of meaning are born.
 ✅ Meaning builds on meaning.
 
 ✅ Cognition climbs upward infinitely.
+
+📚 Related Projects
+
+EEP-AI Microbrain — Emergent meaning from relational loss.
+EEP-Learning Revolution — Revolutionizing education through contradiction-driven learning.
+EEP-Symbol Birth — Proving that contradictions spontaneously birth new symbolic systems.
+Augusto Method — A new dialogue method: hold contradictions until new meaning emerges.
+EEP University — The future home for learning through emergence and contradiction.
